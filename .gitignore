@@ -1,0 +1,4 @@
+.env
+*.json
+*.pkl
+youtube_playlist_creator.py
